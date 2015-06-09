@@ -1,0 +1,2235 @@
+[2014-05-07 00:39:35,342: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-05-07 00:48:03,728: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2014-05-07 00:48:06,853: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-05-07 00:51:59,425: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2014-05-07 00:52:01,435: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 4.00 seconds...
+
+[2014-05-07 00:52:06,527: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-05-07 00:55:01,994: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2014-05-07 00:55:04,000: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 4.00 seconds...
+
+[2014-05-07 00:55:09,086: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-05-07 00:59:16,245: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2014-05-07 00:59:18,254: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 4.00 seconds...
+
+[2014-05-07 00:59:23,362: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-05-07 01:07:35,482: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2014-05-07 01:07:38,779: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-05-07 01:18:10,402: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2014-05-07 01:18:13,486: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-05-07 07:59:53,962: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2014-05-07 07:59:57,052: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-05-07 08:07:18,011: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-05-07 08:08:10,638: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-05-07 08:08:43,698: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-05-07 08:09:01,044: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-05-07 08:09:40,888: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-05-07 08:18:15,414: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-05-07 08:20:15,919: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-05-07 08:22:11,597: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-05-07 08:28:26,100: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-05-07 08:50:48,060: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-05-07 08:55:00,906: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2014-05-07 08:55:02,924: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 4.00 seconds...
+
+[2014-05-07 08:55:08,023: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-06-19 11:42:35,214: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2014-06-19 11:42:37,217: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 4.00 seconds...
+
+[2014-06-19 11:42:42,310: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-06-19 11:50:23,359: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-06-19 13:02:47,778: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2014-06-19 13:02:49,787: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 4.00 seconds...
+
+[2014-06-19 13:02:54,889: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-06-19 13:06:30,544: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2014-06-19 13:06:32,550: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 4.00 seconds...
+
+[2014-06-19 13:06:37,658: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-06-19 13:10:15,827: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2014-06-19 13:10:17,834: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 4.00 seconds...
+
+[2014-06-19 13:10:23,056: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-09-12 09:33:32,189: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2014-09-12 09:33:34,193: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 4.00 seconds...
+
+[2014-09-12 09:33:39,270: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-09-12 09:47:09,937: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-09-12 09:47:45,641: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-09-12 21:49:54,713: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2014-09-12 21:49:56,723: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 4.00 seconds...
+
+[2014-09-12 21:50:01,836: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-09-14 14:14:38,939: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2014-09-14 14:14:40,943: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 4.00 seconds...
+
+[2014-09-14 14:14:46,116: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-09-14 14:15:32,280: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-09-15 11:34:31,180: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2014-09-15 11:34:33,186: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 4.00 seconds...
+
+[2014-09-15 11:34:38,369: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-09-15 11:35:04,321: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-11-17 14:24:33,529: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2014-11-17 14:24:36,564: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-11-17 14:25:54,286: WARNING/MainProcess] consumer: Connection to broker lost. Trying to re-establish the connection...
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/worker/consumer.py", line 278, in start
+    blueprint.start(self)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/bootsteps.py", line 123, in start
+    step.start(parent)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/worker/consumer.py", line 821, in start
+    c.loop(*c.loop_args())
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/worker/loops.py", line 72, in asynloop
+    next(loop)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/kombu/async/hub.py", line 267, in create_loop
+    tick_callback()
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/kombu/transport/redis.py", line 936, in on_poll_start
+    cycle_poll_start()
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/kombu/transport/redis.py", line 298, in on_poll_start
+    self._register_BRPOP(channel)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/kombu/transport/redis.py", line 281, in _register_BRPOP
+    self._register(*ident)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/kombu/transport/redis.py", line 266, in _register
+    client.connection.connect()
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/redis/connection.py", line 253, in connect
+    raise ConnectionError(self._error_message(e))
+ConnectionError: Error 111 connecting localhost:6379. Connection refused.
+[2014-11-17 14:30:49,033: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-11-17 14:32:01,531: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-11-24 12:37:29,368: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2014-11-24 12:37:32,402: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-11-24 12:42:45,991: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-11-24 12:43:18,645: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-11-24 13:05:59,392: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2014-11-24 13:06:02,431: WARNING/MainProcess] celery@erpnext-vm ready.
+[2014-11-24 13:08:06,784: WARNING/MainProcess] celery@erpnext-vm ready.
+[2015-04-02 11:43:22,763: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2015-04-02 11:43:25,792: WARNING/MainProcess] celery@erpnext-vm ready.
+[2015-04-02 14:44:26,869: WARNING/MainProcess] celery@erpnext-vm ready.
+[2015-04-02 14:48:29,786: WARNING/Worker-1] frappe.tasks.scheduler_task[7615d1ee-f385-4186-b1ea-1a15ff971fa4]: Method: all, Handler: frappe.email.bulk.flush
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/bulk.py", line 182, in flush
+    order by creation asc limit 1 for update""", now_datetime(), as_dict=1)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 129, in sql
+    self._cursor.execute(query, values)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ OperationalError: (1054, "Unknown column 'send_after' in 'where clause'")
+
+[2015-04-02 14:48:29,788: ERROR/MainProcess] Task frappe.tasks.scheduler_task[7615d1ee-f385-4186-b1ea-1a15ff971fa4] raised unexpected: OperationalError(1054, "Unknown column 'send_after' in 'where clause'")
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/bulk.py", line 182, in flush
+    order by creation asc limit 1 for update""", now_datetime(), as_dict=1)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 129, in sql
+    self._cursor.execute(query, values)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+OperationalError: (1054, "Unknown column 'send_after' in 'where clause'")
+[2015-04-02 14:48:30,025: WARNING/Worker-1] frappe.tasks.scheduler_task[d95c19b7-e9b4-4194-9df6-88ece881fc47]: Method: all, Handler: frappe.email.doctype.email_account.email_account.pull
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 245, in pull
+    for email_account in frappe.get_list("Email Account", filters={"enable_incoming": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 29, in execute
+    if not ignore_permissions and not frappe.has_permission(self.doctype, "read", user=user):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 400, in has_permission
+    return frappe.permissions.has_permission(doctype, ptype, doc=doc, verbose=verbose, user=user)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/permissions.py", line 27, in has_permission
+    meta = frappe.get_meta(doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 487, in get_meta
+    return frappe.model.meta.get_meta(doctype, cached=cached)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in get_meta
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 49, in get_value
+    val = generator()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in <lambda>
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 49, in __init__
+    super(Meta, self).__init__("DocType", doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 76, in __init__
+    self.load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 54, in load_from_db
+    super(Meta, self).load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 106, in load_from_db
+    frappe.throw(_("{0} {1} not found").format(_(self.doctype), self.name), frappe.DoesNotExistError)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 237, in throw
+    msgprint(msg, raise_exception=exc)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 230, in msgprint
+    _raise_exception()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 215, in _raise_exception
+    raise raise_exception, encode(msg)
+ DoesNotExistError: DocType Email Account not found
+
+[2015-04-02 14:48:30,028: ERROR/MainProcess] Task frappe.tasks.scheduler_task[d95c19b7-e9b4-4194-9df6-88ece881fc47] raised unexpected: DoesNotExistError('DocType Email Account not found',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 245, in pull
+    for email_account in frappe.get_list("Email Account", filters={"enable_incoming": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 29, in execute
+    if not ignore_permissions and not frappe.has_permission(self.doctype, "read", user=user):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 400, in has_permission
+    return frappe.permissions.has_permission(doctype, ptype, doc=doc, verbose=verbose, user=user)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/permissions.py", line 27, in has_permission
+    meta = frappe.get_meta(doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 487, in get_meta
+    return frappe.model.meta.get_meta(doctype, cached=cached)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in get_meta
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 49, in get_value
+    val = generator()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in <lambda>
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 49, in __init__
+    super(Meta, self).__init__("DocType", doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 76, in __init__
+    self.load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 54, in load_from_db
+    super(Meta, self).load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 106, in load_from_db
+    frappe.throw(_("{0} {1} not found").format(_(self.doctype), self.name), frappe.DoesNotExistError)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 237, in throw
+    msgprint(msg, raise_exception=exc)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 230, in msgprint
+    _raise_exception()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 215, in _raise_exception
+    raise raise_exception, encode(msg)
+DoesNotExistError: DocType Email Account not found
+[2015-04-02 14:48:30,238: WARNING/Worker-1] frappe.tasks.scheduler_task[26e0969e-b244-4909-aa9c-8c170e8b85ad]: Method: all, Handler: frappe.email.doctype.email_account.email_account.notify_unreplied
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 256, in notify_unreplied
+    for email_account in frappe.get_all("Email Account", "name", filters={"enable_incoming": 1, "notify_if_unreplied": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 866, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 50, in execute
+    return self.build_and_run()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 53, in build_and_run
+    args = self.prepare_args()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 67, in prepare_args
+    self.remove_user_tags()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 160, in remove_user_tags
+    columns = frappe.db.get_table_columns(self.doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 711, in get_table_columns
+    return [r[0] for r in self.sql("DESC `tab%s`" % doctype)]
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 140, in sql
+    self._cursor.execute(query)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ ProgrammingError: (1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+
+[2015-04-02 14:48:30,241: ERROR/MainProcess] Task frappe.tasks.scheduler_task[26e0969e-b244-4909-aa9c-8c170e8b85ad] raised unexpected: ProgrammingError(1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 256, in notify_unreplied
+    for email_account in frappe.get_all("Email Account", "name", filters={"enable_incoming": 1, "notify_if_unreplied": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 866, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 50, in execute
+    return self.build_and_run()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 53, in build_and_run
+    args = self.prepare_args()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 67, in prepare_args
+    self.remove_user_tags()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 160, in remove_user_tags
+    columns = frappe.db.get_table_columns(self.doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 711, in get_table_columns
+    return [r[0] for r in self.sql("DESC `tab%s`" % doctype)]
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 140, in sql
+    self._cursor.execute(query)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+[2015-04-02 14:53:29,618: WARNING/Worker-1] frappe.tasks.scheduler_task[827340ab-e4cf-40fc-b007-81644aa7be68]: Method: all, Handler: frappe.email.bulk.flush
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/bulk.py", line 182, in flush
+    order by creation asc limit 1 for update""", now_datetime(), as_dict=1)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 129, in sql
+    self._cursor.execute(query, values)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ OperationalError: (1054, "Unknown column 'send_after' in 'where clause'")
+
+[2015-04-02 14:53:29,620: ERROR/MainProcess] Task frappe.tasks.scheduler_task[827340ab-e4cf-40fc-b007-81644aa7be68] raised unexpected: OperationalError(1054, "Unknown column 'send_after' in 'where clause'")
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/bulk.py", line 182, in flush
+    order by creation asc limit 1 for update""", now_datetime(), as_dict=1)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 129, in sql
+    self._cursor.execute(query, values)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+OperationalError: (1054, "Unknown column 'send_after' in 'where clause'")
+[2015-04-02 14:53:29,839: WARNING/Worker-1] frappe.tasks.scheduler_task[c426b851-2c07-4bfd-99e3-f06cb2a7e8cb]: Method: all, Handler: frappe.email.doctype.email_account.email_account.pull
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 245, in pull
+    for email_account in frappe.get_list("Email Account", filters={"enable_incoming": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 29, in execute
+    if not ignore_permissions and not frappe.has_permission(self.doctype, "read", user=user):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 400, in has_permission
+    return frappe.permissions.has_permission(doctype, ptype, doc=doc, verbose=verbose, user=user)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/permissions.py", line 27, in has_permission
+    meta = frappe.get_meta(doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 487, in get_meta
+    return frappe.model.meta.get_meta(doctype, cached=cached)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in get_meta
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 49, in get_value
+    val = generator()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in <lambda>
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 49, in __init__
+    super(Meta, self).__init__("DocType", doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 76, in __init__
+    self.load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 54, in load_from_db
+    super(Meta, self).load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 106, in load_from_db
+    frappe.throw(_("{0} {1} not found").format(_(self.doctype), self.name), frappe.DoesNotExistError)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 237, in throw
+    msgprint(msg, raise_exception=exc)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 230, in msgprint
+    _raise_exception()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 215, in _raise_exception
+    raise raise_exception, encode(msg)
+ DoesNotExistError: DocType Email Account not found
+
+[2015-04-02 14:53:29,841: ERROR/MainProcess] Task frappe.tasks.scheduler_task[c426b851-2c07-4bfd-99e3-f06cb2a7e8cb] raised unexpected: DoesNotExistError('DocType Email Account not found',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 245, in pull
+    for email_account in frappe.get_list("Email Account", filters={"enable_incoming": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 29, in execute
+    if not ignore_permissions and not frappe.has_permission(self.doctype, "read", user=user):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 400, in has_permission
+    return frappe.permissions.has_permission(doctype, ptype, doc=doc, verbose=verbose, user=user)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/permissions.py", line 27, in has_permission
+    meta = frappe.get_meta(doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 487, in get_meta
+    return frappe.model.meta.get_meta(doctype, cached=cached)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in get_meta
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 49, in get_value
+    val = generator()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in <lambda>
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 49, in __init__
+    super(Meta, self).__init__("DocType", doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 76, in __init__
+    self.load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 54, in load_from_db
+    super(Meta, self).load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 106, in load_from_db
+    frappe.throw(_("{0} {1} not found").format(_(self.doctype), self.name), frappe.DoesNotExistError)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 237, in throw
+    msgprint(msg, raise_exception=exc)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 230, in msgprint
+    _raise_exception()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 215, in _raise_exception
+    raise raise_exception, encode(msg)
+DoesNotExistError: DocType Email Account not found
+[2015-04-02 14:53:30,052: WARNING/Worker-1] frappe.tasks.scheduler_task[245cb7d1-21c7-4479-b011-d5587616f016]: Method: all, Handler: frappe.email.doctype.email_account.email_account.notify_unreplied
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 256, in notify_unreplied
+    for email_account in frappe.get_all("Email Account", "name", filters={"enable_incoming": 1, "notify_if_unreplied": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 866, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 50, in execute
+    return self.build_and_run()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 53, in build_and_run
+    args = self.prepare_args()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 67, in prepare_args
+    self.remove_user_tags()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 160, in remove_user_tags
+    columns = frappe.db.get_table_columns(self.doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 711, in get_table_columns
+    return [r[0] for r in self.sql("DESC `tab%s`" % doctype)]
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 140, in sql
+    self._cursor.execute(query)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ ProgrammingError: (1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+
+[2015-04-02 14:53:30,054: ERROR/MainProcess] Task frappe.tasks.scheduler_task[245cb7d1-21c7-4479-b011-d5587616f016] raised unexpected: ProgrammingError(1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 256, in notify_unreplied
+    for email_account in frappe.get_all("Email Account", "name", filters={"enable_incoming": 1, "notify_if_unreplied": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 866, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 50, in execute
+    return self.build_and_run()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 53, in build_and_run
+    args = self.prepare_args()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 67, in prepare_args
+    self.remove_user_tags()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 160, in remove_user_tags
+    columns = frappe.db.get_table_columns(self.doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 711, in get_table_columns
+    return [r[0] for r in self.sql("DESC `tab%s`" % doctype)]
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 140, in sql
+    self._cursor.execute(query)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+[2015-04-02 14:58:29,981: WARNING/Worker-1] frappe.tasks.scheduler_task[03cc00e0-8086-4a4c-9a25-448c2ff20732]: Method: all, Handler: frappe.email.bulk.flush
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/bulk.py", line 182, in flush
+    order by creation asc limit 1 for update""", now_datetime(), as_dict=1)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 129, in sql
+    self._cursor.execute(query, values)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ OperationalError: (1054, "Unknown column 'send_after' in 'where clause'")
+
+[2015-04-02 14:58:29,983: ERROR/MainProcess] Task frappe.tasks.scheduler_task[03cc00e0-8086-4a4c-9a25-448c2ff20732] raised unexpected: OperationalError(1054, "Unknown column 'send_after' in 'where clause'")
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/bulk.py", line 182, in flush
+    order by creation asc limit 1 for update""", now_datetime(), as_dict=1)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 129, in sql
+    self._cursor.execute(query, values)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+OperationalError: (1054, "Unknown column 'send_after' in 'where clause'")
+[2015-04-02 14:58:30,412: WARNING/Worker-1] frappe.tasks.scheduler_task[b55935e8-09ba-4113-9e3d-0a1972b2f05a]: Method: all, Handler: frappe.email.doctype.email_account.email_account.pull
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 245, in pull
+    for email_account in frappe.get_list("Email Account", filters={"enable_incoming": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 29, in execute
+    if not ignore_permissions and not frappe.has_permission(self.doctype, "read", user=user):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 400, in has_permission
+    return frappe.permissions.has_permission(doctype, ptype, doc=doc, verbose=verbose, user=user)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/permissions.py", line 27, in has_permission
+    meta = frappe.get_meta(doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 487, in get_meta
+    return frappe.model.meta.get_meta(doctype, cached=cached)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in get_meta
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 49, in get_value
+    val = generator()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in <lambda>
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 49, in __init__
+    super(Meta, self).__init__("DocType", doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 76, in __init__
+    self.load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 54, in load_from_db
+    super(Meta, self).load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 106, in load_from_db
+    frappe.throw(_("{0} {1} not found").format(_(self.doctype), self.name), frappe.DoesNotExistError)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 237, in throw
+    msgprint(msg, raise_exception=exc)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 230, in msgprint
+    _raise_exception()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 215, in _raise_exception
+    raise raise_exception, encode(msg)
+ DoesNotExistError: DocType Email Account not found
+
+[2015-04-02 14:58:30,415: ERROR/MainProcess] Task frappe.tasks.scheduler_task[b55935e8-09ba-4113-9e3d-0a1972b2f05a] raised unexpected: DoesNotExistError('DocType Email Account not found',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 245, in pull
+    for email_account in frappe.get_list("Email Account", filters={"enable_incoming": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 29, in execute
+    if not ignore_permissions and not frappe.has_permission(self.doctype, "read", user=user):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 400, in has_permission
+    return frappe.permissions.has_permission(doctype, ptype, doc=doc, verbose=verbose, user=user)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/permissions.py", line 27, in has_permission
+    meta = frappe.get_meta(doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 487, in get_meta
+    return frappe.model.meta.get_meta(doctype, cached=cached)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in get_meta
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 49, in get_value
+    val = generator()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in <lambda>
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 49, in __init__
+    super(Meta, self).__init__("DocType", doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 76, in __init__
+    self.load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 54, in load_from_db
+    super(Meta, self).load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 106, in load_from_db
+    frappe.throw(_("{0} {1} not found").format(_(self.doctype), self.name), frappe.DoesNotExistError)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 237, in throw
+    msgprint(msg, raise_exception=exc)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 230, in msgprint
+    _raise_exception()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 215, in _raise_exception
+    raise raise_exception, encode(msg)
+DoesNotExistError: DocType Email Account not found
+[2015-04-02 14:58:30,770: WARNING/Worker-1] frappe.tasks.scheduler_task[d0c4d7ac-a1cb-4b35-90aa-3f98341feaa8]: Method: all, Handler: frappe.email.doctype.email_account.email_account.notify_unreplied
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 256, in notify_unreplied
+    for email_account in frappe.get_all("Email Account", "name", filters={"enable_incoming": 1, "notify_if_unreplied": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 866, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 50, in execute
+    return self.build_and_run()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 53, in build_and_run
+    args = self.prepare_args()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 67, in prepare_args
+    self.remove_user_tags()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 160, in remove_user_tags
+    columns = frappe.db.get_table_columns(self.doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 711, in get_table_columns
+    return [r[0] for r in self.sql("DESC `tab%s`" % doctype)]
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 140, in sql
+    self._cursor.execute(query)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ ProgrammingError: (1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+
+[2015-04-02 14:58:30,778: ERROR/MainProcess] Task frappe.tasks.scheduler_task[d0c4d7ac-a1cb-4b35-90aa-3f98341feaa8] raised unexpected: ProgrammingError(1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 256, in notify_unreplied
+    for email_account in frappe.get_all("Email Account", "name", filters={"enable_incoming": 1, "notify_if_unreplied": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 866, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 50, in execute
+    return self.build_and_run()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 53, in build_and_run
+    args = self.prepare_args()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 67, in prepare_args
+    self.remove_user_tags()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 160, in remove_user_tags
+    columns = frappe.db.get_table_columns(self.doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 711, in get_table_columns
+    return [r[0] for r in self.sql("DESC `tab%s`" % doctype)]
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 140, in sql
+    self._cursor.execute(query)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+[2015-04-02 15:03:29,803: WARNING/Worker-1] frappe.tasks.scheduler_task[7bb44036-f63c-4832-88e7-77f1219dc318]: Method: all, Handler: frappe.email.bulk.flush
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/bulk.py", line 182, in flush
+    order by creation asc limit 1 for update""", now_datetime(), as_dict=1)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 129, in sql
+    self._cursor.execute(query, values)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ OperationalError: (1054, "Unknown column 'send_after' in 'where clause'")
+
+[2015-04-02 15:03:29,806: ERROR/MainProcess] Task frappe.tasks.scheduler_task[7bb44036-f63c-4832-88e7-77f1219dc318] raised unexpected: OperationalError(1054, "Unknown column 'send_after' in 'where clause'")
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/bulk.py", line 182, in flush
+    order by creation asc limit 1 for update""", now_datetime(), as_dict=1)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 129, in sql
+    self._cursor.execute(query, values)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+OperationalError: (1054, "Unknown column 'send_after' in 'where clause'")
+[2015-04-02 15:03:30,042: WARNING/Worker-1] frappe.tasks.scheduler_task[3fd56232-17ae-4846-aaea-3d320f193381]: Method: all, Handler: frappe.email.doctype.email_account.email_account.pull
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 245, in pull
+    for email_account in frappe.get_list("Email Account", filters={"enable_incoming": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 29, in execute
+    if not ignore_permissions and not frappe.has_permission(self.doctype, "read", user=user):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 400, in has_permission
+    return frappe.permissions.has_permission(doctype, ptype, doc=doc, verbose=verbose, user=user)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/permissions.py", line 27, in has_permission
+    meta = frappe.get_meta(doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 487, in get_meta
+    return frappe.model.meta.get_meta(doctype, cached=cached)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in get_meta
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 49, in get_value
+    val = generator()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in <lambda>
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 49, in __init__
+    super(Meta, self).__init__("DocType", doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 76, in __init__
+    self.load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 54, in load_from_db
+    super(Meta, self).load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 106, in load_from_db
+    frappe.throw(_("{0} {1} not found").format(_(self.doctype), self.name), frappe.DoesNotExistError)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 237, in throw
+    msgprint(msg, raise_exception=exc)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 230, in msgprint
+    _raise_exception()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 215, in _raise_exception
+    raise raise_exception, encode(msg)
+ DoesNotExistError: DocType Email Account not found
+
+[2015-04-02 15:03:30,045: ERROR/MainProcess] Task frappe.tasks.scheduler_task[3fd56232-17ae-4846-aaea-3d320f193381] raised unexpected: DoesNotExistError('DocType Email Account not found',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 245, in pull
+    for email_account in frappe.get_list("Email Account", filters={"enable_incoming": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 29, in execute
+    if not ignore_permissions and not frappe.has_permission(self.doctype, "read", user=user):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 400, in has_permission
+    return frappe.permissions.has_permission(doctype, ptype, doc=doc, verbose=verbose, user=user)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/permissions.py", line 27, in has_permission
+    meta = frappe.get_meta(doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 487, in get_meta
+    return frappe.model.meta.get_meta(doctype, cached=cached)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in get_meta
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 49, in get_value
+    val = generator()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in <lambda>
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 49, in __init__
+    super(Meta, self).__init__("DocType", doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 76, in __init__
+    self.load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 54, in load_from_db
+    super(Meta, self).load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 106, in load_from_db
+    frappe.throw(_("{0} {1} not found").format(_(self.doctype), self.name), frappe.DoesNotExistError)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 237, in throw
+    msgprint(msg, raise_exception=exc)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 230, in msgprint
+    _raise_exception()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 215, in _raise_exception
+    raise raise_exception, encode(msg)
+DoesNotExistError: DocType Email Account not found
+[2015-04-02 15:03:30,266: WARNING/Worker-1] frappe.tasks.scheduler_task[25321a64-b654-4c45-aadd-ccc28834a22b]: Method: all, Handler: frappe.email.doctype.email_account.email_account.notify_unreplied
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 256, in notify_unreplied
+    for email_account in frappe.get_all("Email Account", "name", filters={"enable_incoming": 1, "notify_if_unreplied": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 866, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 50, in execute
+    return self.build_and_run()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 53, in build_and_run
+    args = self.prepare_args()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 67, in prepare_args
+    self.remove_user_tags()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 160, in remove_user_tags
+    columns = frappe.db.get_table_columns(self.doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 711, in get_table_columns
+    return [r[0] for r in self.sql("DESC `tab%s`" % doctype)]
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 140, in sql
+    self._cursor.execute(query)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ ProgrammingError: (1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+
+[2015-04-02 15:03:30,269: ERROR/MainProcess] Task frappe.tasks.scheduler_task[25321a64-b654-4c45-aadd-ccc28834a22b] raised unexpected: ProgrammingError(1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 256, in notify_unreplied
+    for email_account in frappe.get_all("Email Account", "name", filters={"enable_incoming": 1, "notify_if_unreplied": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 866, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 50, in execute
+    return self.build_and_run()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 53, in build_and_run
+    args = self.prepare_args()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 67, in prepare_args
+    self.remove_user_tags()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 160, in remove_user_tags
+    columns = frappe.db.get_table_columns(self.doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 711, in get_table_columns
+    return [r[0] for r in self.sql("DESC `tab%s`" % doctype)]
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 140, in sql
+    self._cursor.execute(query)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+[2015-04-02 15:08:29,899: WARNING/Worker-1] frappe.tasks.scheduler_task[d2b46770-86eb-40e3-9fbf-96f8f131ae04]: Method: all, Handler: frappe.email.bulk.flush
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    task_logger.warn(traceback)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/bulk.py", line 182, in flush
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 129, in sql
+    if as_dict:
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ OperationalError: (1054, "Unknown column 'send_after' in 'where clause'")
+
+[2015-04-02 15:08:29,901: ERROR/MainProcess] Task frappe.tasks.scheduler_task[d2b46770-86eb-40e3-9fbf-96f8f131ae04] raised unexpected: OperationalError(1054, "Unknown column 'send_after' in 'where clause'")
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    task_logger.warn(traceback)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/bulk.py", line 182, in flush
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 129, in sql
+    if as_dict:
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+OperationalError: (1054, "Unknown column 'send_after' in 'where clause'")
+[2015-04-02 15:08:30,161: WARNING/Worker-1] frappe.tasks.scheduler_task[a6943e6c-0017-40d2-8893-3096e8b83d6b]: Method: all, Handler: frappe.email.doctype.email_account.email_account.pull
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    task_logger.warn(traceback)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 245, in pull
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 29, in execute
+    if fields:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 400, in has_permission
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/permissions.py", line 27, in has_permission
+    if ptype=="submit" and not cint(meta.is_submittable):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 487, in get_meta
+    if content:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in get_meta
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 49, in get_value
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in <lambda>
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 49, in __init__
+    super(Meta, self).__init__("DocType", doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 76, in __init__
+    self.dont_update_if_missing = []
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 54, in load_from_db
+    super(Meta, self).load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 106, in load_from_db
+    if getattr(self, "ignore_permissions", False):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 237, in throw
+    logger = None
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 230, in msgprint
+    else:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 215, in _raise_exception
+    local.session.data = {}
+ DoesNotExistError: DocType Email Account not found
+
+[2015-04-02 15:08:30,164: ERROR/MainProcess] Task frappe.tasks.scheduler_task[a6943e6c-0017-40d2-8893-3096e8b83d6b] raised unexpected: DoesNotExistError('DocType Email Account not found',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    task_logger.warn(traceback)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 245, in pull
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 29, in execute
+    if fields:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 400, in has_permission
+    
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/permissions.py", line 27, in has_permission
+    if ptype=="submit" and not cint(meta.is_submittable):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 487, in get_meta
+    if content:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in get_meta
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 49, in get_value
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in <lambda>
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 49, in __init__
+    super(Meta, self).__init__("DocType", doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 76, in __init__
+    self.dont_update_if_missing = []
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 54, in load_from_db
+    super(Meta, self).load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 106, in load_from_db
+    if getattr(self, "ignore_permissions", False):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 237, in throw
+    logger = None
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 230, in msgprint
+    else:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 215, in _raise_exception
+    local.session.data = {}
+DoesNotExistError: DocType Email Account not found
+[2015-04-02 15:08:30,392: WARNING/Worker-1] frappe.tasks.scheduler_task[74a43371-4d01-4ead-8f8e-1e93c76c3758]: Method: all, Handler: frappe.email.doctype.email_account.email_account.notify_unreplied
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    task_logger.warn(traceback)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 256, in notify_unreplied
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 866, in get_all
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 50, in execute
+    args = self.prepare_args()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 53, in build_and_run
+    query = """select %(fields)s from %(tables)s where %(conditions)s
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 67, in prepare_args
+    for t in self.tables:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 160, in remove_user_tags
+    else:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 711, in get_table_columns
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 140, in sql
+    return self._cursor.fetchall()
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ ProgrammingError: (1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+
+[2015-04-02 15:08:30,397: ERROR/MainProcess] Task frappe.tasks.scheduler_task[74a43371-4d01-4ead-8f8e-1e93c76c3758] raised unexpected: ProgrammingError(1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    task_logger.warn(traceback)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 256, in notify_unreplied
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 866, in get_all
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 50, in execute
+    args = self.prepare_args()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 53, in build_and_run
+    query = """select %(fields)s from %(tables)s where %(conditions)s
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 67, in prepare_args
+    for t in self.tables:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 160, in remove_user_tags
+    else:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 711, in get_table_columns
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 140, in sql
+    return self._cursor.fetchall()
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+[2015-04-02 15:13:29,945: WARNING/Worker-1] frappe.tasks.scheduler_task[ab8920c5-9786-45ba-bbda-37dfcc6c0cab]: Method: all, Handler: frappe.email.bulk.flush
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    task_logger.warn(traceback)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/bulk.py", line 182, in flush
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 129, in sql
+    if as_dict:
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ OperationalError: (1054, "Unknown column 'send_after' in 'where clause'")
+
+[2015-04-02 15:13:29,946: ERROR/MainProcess] Task frappe.tasks.scheduler_task[ab8920c5-9786-45ba-bbda-37dfcc6c0cab] raised unexpected: OperationalError(1054, "Unknown column 'send_after' in 'where clause'")
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    task_logger.warn(traceback)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/bulk.py", line 182, in flush
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 129, in sql
+    if as_dict:
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+OperationalError: (1054, "Unknown column 'send_after' in 'where clause'")
+[2015-04-02 15:13:30,158: WARNING/Worker-1] frappe.tasks.scheduler_task[0610f3d4-4a7c-43aa-a41d-d81d9444210f]: Method: all, Handler: frappe.email.doctype.email_account.email_account.pull
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    task_logger.warn(traceback)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 245, in pull
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 29, in execute
+    if fields:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 400, in has_permission
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/permissions.py", line 27, in has_permission
+    if ptype=="submit" and not cint(meta.is_submittable):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 487, in get_meta
+    if content:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in get_meta
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 49, in get_value
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in <lambda>
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 49, in __init__
+    super(Meta, self).__init__("DocType", doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 76, in __init__
+    self.dont_update_if_missing = []
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 54, in load_from_db
+    super(Meta, self).load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 106, in load_from_db
+    if getattr(self, "ignore_permissions", False):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 237, in throw
+    logger = None
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 230, in msgprint
+    else:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 215, in _raise_exception
+    local.session.data = {}
+ DoesNotExistError: DocType Email Account not found
+
+[2015-04-02 15:13:30,161: ERROR/MainProcess] Task frappe.tasks.scheduler_task[0610f3d4-4a7c-43aa-a41d-d81d9444210f] raised unexpected: DoesNotExistError('DocType Email Account not found',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    task_logger.warn(traceback)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 245, in pull
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 29, in execute
+    if fields:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 400, in has_permission
+    
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/permissions.py", line 27, in has_permission
+    if ptype=="submit" and not cint(meta.is_submittable):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 487, in get_meta
+    if content:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in get_meta
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 49, in get_value
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in <lambda>
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 49, in __init__
+    super(Meta, self).__init__("DocType", doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 76, in __init__
+    self.dont_update_if_missing = []
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 54, in load_from_db
+    super(Meta, self).load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 106, in load_from_db
+    if getattr(self, "ignore_permissions", False):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 237, in throw
+    logger = None
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 230, in msgprint
+    else:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 215, in _raise_exception
+    local.session.data = {}
+DoesNotExistError: DocType Email Account not found
+[2015-04-02 15:13:30,390: WARNING/Worker-1] frappe.tasks.scheduler_task[95e73556-0b93-4bab-a101-3638cb14321e]: Method: all, Handler: frappe.email.doctype.email_account.email_account.notify_unreplied
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    task_logger.warn(traceback)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 256, in notify_unreplied
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 866, in get_all
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 50, in execute
+    args = self.prepare_args()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 53, in build_and_run
+    query = """select %(fields)s from %(tables)s where %(conditions)s
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 67, in prepare_args
+    for t in self.tables:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 160, in remove_user_tags
+    else:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 711, in get_table_columns
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 140, in sql
+    return self._cursor.fetchall()
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ ProgrammingError: (1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+
+[2015-04-02 15:13:30,392: ERROR/MainProcess] Task frappe.tasks.scheduler_task[95e73556-0b93-4bab-a101-3638cb14321e] raised unexpected: ProgrammingError(1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    task_logger.warn(traceback)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 256, in notify_unreplied
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 866, in get_all
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 50, in execute
+    args = self.prepare_args()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 53, in build_and_run
+    query = """select %(fields)s from %(tables)s where %(conditions)s
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 67, in prepare_args
+    for t in self.tables:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 160, in remove_user_tags
+    else:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 711, in get_table_columns
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 140, in sql
+    return self._cursor.fetchall()
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+[2015-04-02 15:18:30,031: WARNING/Worker-1] frappe.tasks.scheduler_task[dddfa596-12df-4fdf-87cc-b44ceb60333e]: Method: all, Handler: frappe.email.bulk.flush
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    task_logger.warn(traceback)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/bulk.py", line 182, in flush
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 129, in sql
+    if as_dict:
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ OperationalError: (1054, "Unknown column 'send_after' in 'where clause'")
+
+[2015-04-02 15:18:30,033: ERROR/MainProcess] Task frappe.tasks.scheduler_task[dddfa596-12df-4fdf-87cc-b44ceb60333e] raised unexpected: OperationalError(1054, "Unknown column 'send_after' in 'where clause'")
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    task_logger.warn(traceback)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/bulk.py", line 182, in flush
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 129, in sql
+    if as_dict:
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+OperationalError: (1054, "Unknown column 'send_after' in 'where clause'")
+[2015-04-02 15:18:30,182: WARNING/Worker-1] frappe.tasks.scheduler_task[312e3951-46ef-4b8c-90a4-29f069331d62]: Method: all, Handler: frappe.email.doctype.email_account.email_account.pull
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    task_logger.warn(traceback)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 245, in pull
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 29, in execute
+    if fields:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 400, in has_permission
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/permissions.py", line 27, in has_permission
+    if ptype=="submit" and not cint(meta.is_submittable):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 487, in get_meta
+    if content:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in get_meta
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 49, in get_value
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in <lambda>
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 49, in __init__
+    super(Meta, self).__init__("DocType", doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 76, in __init__
+    self.dont_update_if_missing = []
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 54, in load_from_db
+    super(Meta, self).load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 106, in load_from_db
+    if getattr(self, "ignore_permissions", False):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 237, in throw
+    logger = None
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 230, in msgprint
+    else:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 215, in _raise_exception
+    local.session.data = {}
+ DoesNotExistError: DocType Email Account not found
+
+[2015-04-02 15:18:30,184: ERROR/MainProcess] Task frappe.tasks.scheduler_task[312e3951-46ef-4b8c-90a4-29f069331d62] raised unexpected: DoesNotExistError('DocType Email Account not found',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    task_logger.warn(traceback)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 245, in pull
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 29, in execute
+    if fields:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 400, in has_permission
+    
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/permissions.py", line 27, in has_permission
+    if ptype=="submit" and not cint(meta.is_submittable):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 487, in get_meta
+    if content:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in get_meta
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 49, in get_value
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in <lambda>
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 49, in __init__
+    super(Meta, self).__init__("DocType", doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 76, in __init__
+    self.dont_update_if_missing = []
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 54, in load_from_db
+    super(Meta, self).load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 106, in load_from_db
+    if getattr(self, "ignore_permissions", False):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 237, in throw
+    logger = None
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 230, in msgprint
+    else:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 215, in _raise_exception
+    local.session.data = {}
+DoesNotExistError: DocType Email Account not found
+[2015-04-02 15:18:30,340: WARNING/Worker-1] frappe.tasks.scheduler_task[9dd9acdf-2de2-4ab5-a097-7004741cbfc7]: Method: all, Handler: frappe.email.doctype.email_account.email_account.notify_unreplied
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    task_logger.warn(traceback)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 256, in notify_unreplied
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 866, in get_all
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 50, in execute
+    args = self.prepare_args()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 53, in build_and_run
+    query = """select %(fields)s from %(tables)s where %(conditions)s
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 67, in prepare_args
+    for t in self.tables:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 160, in remove_user_tags
+    else:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 711, in get_table_columns
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 140, in sql
+    return self._cursor.fetchall()
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ ProgrammingError: (1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+
+[2015-04-02 15:18:30,342: ERROR/MainProcess] Task frappe.tasks.scheduler_task[9dd9acdf-2de2-4ab5-a097-7004741cbfc7] raised unexpected: ProgrammingError(1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    task_logger.warn(traceback)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 256, in notify_unreplied
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 866, in get_all
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 50, in execute
+    args = self.prepare_args()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 53, in build_and_run
+    query = """select %(fields)s from %(tables)s where %(conditions)s
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 67, in prepare_args
+    for t in self.tables:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 160, in remove_user_tags
+    else:
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 711, in get_table_columns
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 140, in sql
+    return self._cursor.fetchall()
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+[2015-04-02 15:23:30,194: WARNING/Worker-1] frappe.tasks.scheduler_task[892655a6-8ede-4093-9969-a45ba510469c]: Method: all, Handler: frappe.email.bulk.flush
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/bulk.py", line 182, in flush
+    order by creation asc limit 1 for update""", now_datetime(), as_dict=1)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 129, in sql
+    self._cursor.execute(query, values)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ OperationalError: (1054, "Unknown column 'send_after' in 'where clause'")
+
+[2015-04-02 15:23:30,197: ERROR/MainProcess] Task frappe.tasks.scheduler_task[892655a6-8ede-4093-9969-a45ba510469c] raised unexpected: OperationalError(1054, "Unknown column 'send_after' in 'where clause'")
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/bulk.py", line 182, in flush
+    order by creation asc limit 1 for update""", now_datetime(), as_dict=1)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 129, in sql
+    self._cursor.execute(query, values)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+OperationalError: (1054, "Unknown column 'send_after' in 'where clause'")
+[2015-04-02 15:23:30,473: WARNING/Worker-1] frappe.tasks.scheduler_task[f07c4a36-63ce-4be5-bac4-df607f08638a]: Method: all, Handler: frappe.email.doctype.email_account.email_account.pull
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 245, in pull
+    for email_account in frappe.get_list("Email Account", filters={"enable_incoming": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 29, in execute
+    if not ignore_permissions and not frappe.has_permission(self.doctype, "read", user=user):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 400, in has_permission
+    return frappe.permissions.has_permission(doctype, ptype, doc=doc, verbose=verbose, user=user)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/permissions.py", line 27, in has_permission
+    meta = frappe.get_meta(doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 487, in get_meta
+    return frappe.model.meta.get_meta(doctype, cached=cached)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in get_meta
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 49, in get_value
+    val = generator()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in <lambda>
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 49, in __init__
+    super(Meta, self).__init__("DocType", doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 76, in __init__
+    self.load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 54, in load_from_db
+    super(Meta, self).load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 106, in load_from_db
+    frappe.throw(_("{0} {1} not found").format(_(self.doctype), self.name), frappe.DoesNotExistError)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 237, in throw
+    msgprint(msg, raise_exception=exc)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 230, in msgprint
+    _raise_exception()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 215, in _raise_exception
+    raise raise_exception, encode(msg)
+ DoesNotExistError: DocType Email Account not found
+
+[2015-04-02 15:23:30,478: ERROR/MainProcess] Task frappe.tasks.scheduler_task[f07c4a36-63ce-4be5-bac4-df607f08638a] raised unexpected: DoesNotExistError('DocType Email Account not found',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 245, in pull
+    for email_account in frappe.get_list("Email Account", filters={"enable_incoming": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 29, in execute
+    if not ignore_permissions and not frappe.has_permission(self.doctype, "read", user=user):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 400, in has_permission
+    return frappe.permissions.has_permission(doctype, ptype, doc=doc, verbose=verbose, user=user)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/permissions.py", line 27, in has_permission
+    meta = frappe.get_meta(doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 487, in get_meta
+    return frappe.model.meta.get_meta(doctype, cached=cached)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in get_meta
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 49, in get_value
+    val = generator()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 18, in <lambda>
+    return frappe.cache().get_value("meta:" + doctype, lambda: Meta(doctype))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 49, in __init__
+    super(Meta, self).__init__("DocType", doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 76, in __init__
+    self.load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/meta.py", line 54, in load_from_db
+    super(Meta, self).load_from_db()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 106, in load_from_db
+    frappe.throw(_("{0} {1} not found").format(_(self.doctype), self.name), frappe.DoesNotExistError)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 237, in throw
+    msgprint(msg, raise_exception=exc)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 230, in msgprint
+    _raise_exception()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 215, in _raise_exception
+    raise raise_exception, encode(msg)
+DoesNotExistError: DocType Email Account not found
+[2015-04-02 15:23:30,720: WARNING/Worker-1] frappe.tasks.scheduler_task[1af4dd22-ca30-400d-8527-596990c1e3f0]: Method: all, Handler: frappe.email.doctype.email_account.email_account.notify_unreplied
+Traceback (innermost last):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 256, in notify_unreplied
+    for email_account in frappe.get_all("Email Account", "name", filters={"enable_incoming": 1, "notify_if_unreplied": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 866, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 50, in execute
+    return self.build_and_run()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 53, in build_and_run
+    args = self.prepare_args()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 67, in prepare_args
+    self.remove_user_tags()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 160, in remove_user_tags
+    columns = frappe.db.get_table_columns(self.doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 711, in get_table_columns
+    return [r[0] for r in self.sql("DESC `tab%s`" % doctype)]
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 140, in sql
+    self._cursor.execute(query)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ ProgrammingError: (1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+
+[2015-04-02 15:23:30,723: ERROR/MainProcess] Task frappe.tasks.scheduler_task[1af4dd22-ca30-400d-8527-596990c1e3f0] raised unexpected: ProgrammingError(1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 77, in scheduler_task
+    frappe.get_attr(handler)()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 256, in notify_unreplied
+    for email_account in frappe.get_all("Email Account", "name", filters={"enable_incoming": 1, "notify_if_unreplied": 1}):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 866, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 839, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 50, in execute
+    return self.build_and_run()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 53, in build_and_run
+    args = self.prepare_args()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 67, in prepare_args
+    self.remove_user_tags()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/db_query.py", line 160, in remove_user_tags
+    columns = frappe.db.get_table_columns(self.doctype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 711, in get_table_columns
+    return [r[0] for r in self.sql("DESC `tab%s`" % doctype)]
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 140, in sql
+    self._cursor.execute(query)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 205, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+ProgrammingError: (1146, "Table 'erpnext.tabEmail Account' doesn't exist")
+[2015-04-02 15:30:09,434: WARNING/MainProcess] celery@erpnext-vm ready.
+[2015-04-02 15:30:35,151: WARNING/MainProcess] celery@erpnext-vm ready.
+[2015-04-02 15:33:30,283: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[7b7f0d6a-d0be-4a72-a333-e0da8a85c17e] raised unexpected: AttributeError("'dict' object has no attribute 'extend'",)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 34, in enqueue_events
+    frappe.db.set_global('scheduler_last_event', nowtime.strftime(DATETIME_FORMAT))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 602, in set_global
+    self.set_default(key, val, user)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/database.py", line 610, in set_default
+    frappe.defaults.set_default(key, val, parent, parenttype)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/defaults.py", line 87, in set_default
+    add_default(key, value, parent)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/defaults.py", line 98, in add_default
+    d.insert(ignore_permissions=True)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 170, in insert
+    self.run_method("before_insert")
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 506, in run_method
+    return Document.hook(fn)(self, *args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/model/document.py", line 613, in composer
+    doc_events = frappe.get_hooks("doc_events", {})
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 640, in get_hooks
+    hooks = _dict(cache().get_value("app_hooks", load_app_hooks))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 49, in get_value
+    val = generator()
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 620, in load_app_hooks
+    append_hook(hooks, key, getattr(app_hooks, key))
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 629, in append_hook
+    append_to_list(target, key, value)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 635, in append_to_list
+    target[key].extend(value)
+AttributeError: 'dict' object has no attribute 'extend'
+[2015-04-02 15:34:35,586: WARNING/MainProcess] celery@erpnext-vm ready.
+[2015-04-02 15:43:30,277: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[ddc5bf78-6d29-4927-ba20-8f9444d97d5d] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-04-02 15:48:30,369: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[c55b3772-8fc3-460e-8d63-2c52acf400dc] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-04-02 15:53:30,409: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[91c0e6a7-cbd8-42e2-99ca-c1d6cfeb4d11] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-04-02 15:58:30,478: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[f05f507b-65ea-47c5-a31a-a2d19a14da39] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-04-02 16:03:30,595: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[fd6b1c92-cb26-4f89-ba22-b17271f1e132] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-04-02 16:08:30,691: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[cb0b70d4-b540-461d-a373-db39119d26cd] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-04-02 16:13:30,767: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[41d2d159-fbdc-4dd1-837a-509bd5ba0cb2] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-04-02 16:18:30,847: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[7e47952d-f49b-425b-8a2c-4838143261c2] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-04-02 16:23:30,783: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[7203c31a-e79c-44ce-ae32-7147ff1f7f99] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-04-02 16:23:38,465: WARNING/MainProcess] celery@erpnext-vm ready.
+[2015-04-02 16:28:30,986: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[afab25b5-f769-4cec-8f63-73ed465d73a9] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-04-02 17:08:08,394: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting to localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2015-04-02 17:08:11,445: WARNING/MainProcess] celery@erpnext-vm ready.
+[2015-04-02 17:08:12,362: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[084a81dc-16e9-42dd-acb5-e36002ab9c7f] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-04-02 17:13:12,675: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[6bdb7597-e14b-4515-854e-90563e1a4c37] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-04-02 17:14:29,100: WARNING/MainProcess] celery@erpnext-vm ready.
+[2015-06-09 20:51:38,923: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting to localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2015-06-09 20:51:40,931: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting to localhost:6379. Connection refused..
+Trying again in 4.00 seconds...
+
+[2015-06-09 20:51:46,007: WARNING/MainProcess] celery@erpnext-vm ready.
+[2015-06-09 20:51:53,754: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[b27c3315-8269-469b-881c-cd6b025fbb0e] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 20:56:36,889: WARNING/MainProcess] celery@erpnext-vm ready.
+[2015-06-09 20:56:45,112: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[1b2ea314-0a7b-4478-9f6d-6640b624b846] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 21:01:45,117: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[ff38521d-9cc3-4284-908c-a18fd59222d7] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 21:06:45,237: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[f0716340-aeb6-412c-abbd-143603d4a918] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 21:11:45,312: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[9d68ffe7-ded7-4c46-a227-8bb998a74077] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 21:14:24,083: WARNING/MainProcess] celery@erpnext-vm ready.
+[2015-06-09 21:16:45,460: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[4c62bd74-fcfa-418e-835d-aefe616a39e3] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 21:21:45,413: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[9e772acd-e73e-481f-b98a-0fc894483f43] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 21:26:45,505: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[04f9c23b-3d54-4afe-a5a6-f15c2bcca421] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 21:31:45,815: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[40edd264-285b-45b4-83c7-ebd62a66abdc] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 21:36:45,906: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[e3ced69b-ca37-424f-8791-412f366c7e96] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 21:41:45,965: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[1a595f0e-bbde-4f6d-98b9-2d802bcb2563] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 21:46:46,023: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[66a61737-fd0a-405f-8f55-e9685d438818] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 21:51:46,176: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[ec4a1ee9-4204-4b8f-82f1-cb493af760fa] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 21:56:46,293: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[3c6d2a38-7567-49c2-b8dc-d94b4b72dd19] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 22:01:46,446: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[160753c3-dae4-45d5-ab52-5cbc4960d631] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 22:06:46,501: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[0d38ea26-b1aa-4598-8b92-9008988b51bd] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 22:11:46,655: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[07d2b370-b3db-475c-a8d4-85a14726f0c2] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 22:16:46,749: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[d3bad491-6d10-446f-ac99-73c9a5c9a14b] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 22:21:46,899: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[aa68e83a-6a3b-4598-ad98-7a1ccab2ff2c] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 22:26:47,051: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[67e19af3-44af-41bc-900e-6e03da51ffc2] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 22:31:47,326: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[8c23167b-eb04-49e1-9a49-991b24e3c008] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 22:36:47,437: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[ed47316d-cf59-4998-b3bd-3b148b94d13f] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 22:41:47,550: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[2e779e52-0c26-4450-842f-cba7b874cdc3] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 22:46:47,611: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[4ded523c-2c5b-4f41-be46-345a95bea79b] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 22:51:47,758: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[4825f0f9-a06f-4c80-a5ce-a2ee8d519791] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 22:56:47,860: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[1ea18ea9-4f83-49ad-b3f5-5cb3e430967c] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 23:01:47,999: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[e82bd2c1-b0ed-4e2d-8600-6ae5db3b40d9] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 23:06:48,051: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[92fc770b-e0f3-4517-b040-14e1c6adfdfd] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 23:11:48,146: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[180d6cd1-101c-4233-a910-0b2b59cc2909] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 23:16:48,267: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[8ee85f35-8af1-4339-b42c-4c04178c8fb3] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 23:21:48,371: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[b18b1172-445b-4f53-8540-a5668171fdc4] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 23:26:48,495: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[a11c713c-4f69-44bf-b067-4731c441d66a] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 23:31:48,584: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[cb9f9760-713e-4c0c-ac14-5dbaa4ce98af] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 23:36:48,672: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[290c4bf2-ab37-418e-b092-33ef098e9fe7] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 23:41:48,758: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[e8d1a4fa-6513-4fc7-af88-887babb33be8] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock
+[2015-06-09 23:46:48,849: ERROR/MainProcess] Task frappe.tasks.enqueue_events_for_site[451e044c-7d72-4353-92d7-d4b50fc5632a] raised unexpected: LockTimeoutError(u'./erpnext.erpnext-vm/locks/scheduler.lock',)
+Traceback (most recent call last):
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/env/local/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/tasks.py", line 108, in enqueue_events_for_site
+    enqueue_events(site)
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 25, in enqueue_events
+    lock = create_lock('scheduler')
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 16, in create_lock
+    if not check_lock(lock_path):
+  File "/home/erpnext/frappe-bench/apps/frappe/frappe/utils/file_lock.py", line 25, in check_lock
+    raise LockTimeoutError(path)
+LockTimeoutError: ./erpnext.erpnext-vm/locks/scheduler.lock

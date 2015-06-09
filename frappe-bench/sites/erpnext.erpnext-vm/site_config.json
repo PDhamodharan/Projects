@@ -1,0 +1,6 @@
+{
+ "db_name": "erpnext", 
+ "db_password": "YeIsGsnvUvQrGC2r",
+ "host_name": "http://localhost:8080",
+ "developer_mode":1
+}

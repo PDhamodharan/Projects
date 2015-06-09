@@ -1,0 +1,4 @@
+
+Running backup for erpnext.erpnext-vm
+--------------------------------------------------
+database backup taken - ./erpnext.erpnext-vm/private/backups/20150402_77623073_database.sql.gz - on 2015-04-02 12:00:04.048072

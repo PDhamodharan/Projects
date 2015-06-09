@@ -1,0 +1,37 @@
+activerehashing yes
+appendfsync everysec
+appendonly no
+auto-aof-rewrite-min-size 64mb
+auto-aof-rewrite-percentage 100
+daemonize no
+databases 16
+dbfilename dump.rdb
+list-max-ziplist-entries 512
+list-max-ziplist-value 64
+no-appendfsync-on-rewrite no
+pidfile /var/run/redis.pid
+port 11311
+rdbcompression yes
+set-max-intset-entries 512
+slave-priority 100
+slave-serve-stale-data yes
+slowlog-log-slower-than 10000
+slowlog-max-len 128
+timeout 0
+zset-max-ziplist-entries 128
+zset-max-ziplist-value 64
+
+maxmemory 50mb
+maxmemory-policy allkeys-lru
+
+hash-max-zipmap-entries 512
+hash-max-zipmap-value 64
+loglevel verbose
+vm-enabled no
+vm-max-memory 0
+vm-max-threads 4
+vm-page-size 32
+vm-pages 134217728
+vm-swap-file /tmp/redis.swap
+
+

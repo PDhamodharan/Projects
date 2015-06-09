@@ -1,0 +1,345 @@
+[2014-05-07 00:39:34,225: INFO/MainProcess] beat: Starting...
+[2014-05-07 00:44:34,342: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-05-07 00:48:03,357: INFO/MainProcess] beat: Starting...
+[2014-05-07 00:48:04,162: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 2.0 seconds...
+[2014-05-07 00:49:35,079: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-05-07 00:51:58,430: INFO/MainProcess] beat: Starting...
+[2014-05-07 00:51:59,428: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 2.0 seconds...
+[2014-05-07 00:52:01,434: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 4.0 seconds...
+Stale pidfile exists. Removing it.
+[2014-05-07 00:55:01,237: INFO/MainProcess] beat: Starting...
+[2014-05-07 00:55:02,180: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 2.0 seconds...
+[2014-05-07 00:55:04,185: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 4.0 seconds...
+[2014-05-07 00:55:08,198: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-05-07 00:59:15,588: INFO/MainProcess] beat: Starting...
+[2014-05-07 00:59:16,242: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 2.0 seconds...
+[2014-05-07 00:59:18,252: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 4.0 seconds...
+[2014-05-07 01:00:08,246: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-05-07 01:05:08,252: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-05-07 01:07:35,477: INFO/MainProcess] beat: Starting...
+[2014-05-07 01:07:36,038: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 2.0 seconds...
+[2014-05-07 01:10:09,355: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-05-07 01:15:09,499: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2110)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2110)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2110)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2110)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2110)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2110)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2110)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2110)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2110)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2110)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2110)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2110)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2110)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2110)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2110)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2110)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2110)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2110)
+[2014-05-07 08:08:42,730: INFO/MainProcess] beat: Starting...
+[2014-05-07 08:08:42,912: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-05-07 08:09:00,082: INFO/MainProcess] beat: Starting...
+Stale pidfile exists. Removing it.
+[2014-05-07 08:09:39,913: INFO/MainProcess] beat: Starting...
+[2014-05-07 08:13:42,997: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-05-07 08:18:14,440: INFO/MainProcess] beat: Starting...
+[2014-05-07 08:18:43,028: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-05-07 08:20:14,996: INFO/MainProcess] beat: Starting...
+Stale pidfile exists. Removing it.
+[2014-05-07 08:22:10,617: INFO/MainProcess] beat: Starting...
+[2014-05-07 08:23:43,122: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-05-07 08:28:25,259: INFO/MainProcess] beat: Starting...
+[2014-05-07 08:28:43,141: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-05-07 08:33:43,261: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-05-07 08:38:43,376: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-05-07 08:43:43,420: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-05-07 08:48:43,504: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-05-07 08:50:47,079: INFO/MainProcess] beat: Starting...
+[2014-05-07 08:53:43,603: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-05-07 08:55:00,220: INFO/MainProcess] beat: Starting...
+[2014-05-07 08:55:00,908: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 2.0 seconds...
+[2014-05-07 08:55:02,928: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 4.0 seconds...
+Stale pidfile exists. Removing it.
+[2014-06-19 11:42:34,562: INFO/MainProcess] beat: Starting...
+[2014-06-19 11:42:35,358: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 2.0 seconds...
+[2014-06-19 11:42:37,362: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 4.0 seconds...
+[2014-06-19 11:42:41,368: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 11:47:41,376: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-06-19 11:50:22,392: INFO/MainProcess] beat: Starting...
+[2014-06-19 11:52:41,413: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 11:57:41,568: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 12:02:41,646: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 12:07:41,795: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 12:12:41,916: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 12:17:42,028: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 12:22:42,143: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 12:27:42,256: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 12:32:42,349: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 12:37:42,452: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 12:42:42,564: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 12:47:42,593: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 12:52:42,674: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 12:57:42,786: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-06-19 13:02:47,331: INFO/MainProcess] beat: Starting...
+[2014-06-19 13:02:47,953: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 2.0 seconds...
+[2014-06-19 13:02:49,960: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 4.0 seconds...
+[2014-06-19 13:02:53,972: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-06-19 13:06:29,814: INFO/MainProcess] beat: Starting...
+[2014-06-19 13:06:30,613: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 2.0 seconds...
+[2014-06-19 13:06:32,619: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 4.0 seconds...
+[2014-06-19 13:07:53,981: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-06-19 13:10:14,857: INFO/MainProcess] beat: Starting...
+[2014-06-19 13:10:16,036: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 2.0 seconds...
+[2014-06-19 13:10:18,042: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 4.0 seconds...
+[2014-06-19 13:12:53,990: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 13:17:54,134: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 13:22:54,236: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 13:27:55,387: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 13:32:55,468: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 13:37:55,568: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 13:42:56,240: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 13:47:56,352: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 13:52:56,465: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 13:57:56,669: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 14:02:57,253: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 14:07:57,348: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 14:12:57,416: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 14:17:58,302: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 14:22:58,410: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 14:27:58,513: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-06-19 14:32:58,612: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2147)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2147)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2147)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2147)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2147)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2147)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2147)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2147)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2147)
+[2014-09-12 09:47:44,677: INFO/MainProcess] beat: Starting...
+[2014-09-12 09:47:44,925: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-09-12 09:52:45,027: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2014-09-12 09:57:45,155: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-09-12 21:49:53,847: INFO/MainProcess] beat: Starting...
+[2014-09-12 21:49:54,716: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 2.0 seconds...
+[2014-09-12 21:49:56,722: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 4.0 seconds...
+[2014-09-12 21:50:00,738: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2150)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2150)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2150)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2150)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2150)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2150)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2150)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2150)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2150)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2150)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2150)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2150)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2150)
+ERROR: Pidfile (celerybeat.pid) already exists.
+Seems we're already running? (pid: 2150)
+Stale pidfile exists. Removing it.
+[2014-11-17 14:24:33,435: INFO/MainProcess] beat: Starting...
+[2014-11-17 14:24:33,516: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 2.0 seconds...
+[2014-11-17 14:24:35,520: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-11-17 14:30:47,948: INFO/MainProcess] beat: Starting...
+[2014-11-17 14:30:48,000: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-11-17 14:32:00,557: INFO/MainProcess] beat: Starting...
+Stale pidfile exists. Removing it.
+[2014-11-24 12:37:29,212: INFO/MainProcess] beat: Starting...
+[2014-11-24 12:37:29,322: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 2.0 seconds...
+[2014-11-24 12:37:31,326: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-11-24 12:42:44,855: INFO/MainProcess] beat: Starting...
+[2014-11-24 12:42:44,949: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-11-24 12:43:17,681: INFO/MainProcess] beat: Starting...
+Stale pidfile exists. Removing it.
+[2014-11-24 13:05:59,367: INFO/MainProcess] beat: Starting...
+[2014-11-24 13:05:59,457: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 2.0 seconds...
+[2014-11-24 13:06:01,462: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2014-11-24 13:08:05,855: INFO/MainProcess] beat: Starting...
+Stale pidfile exists. Removing it.
+[2015-04-02 11:43:22,651: INFO/MainProcess] beat: Starting...
+[2015-04-02 11:43:22,715: ERROR/MainProcess] beat: Connection error: Error 111 connecting localhost:6379. Connection refused.. Trying again in 2.0 seconds...
+[2015-04-02 11:43:24,719: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 11:48:25,702: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 11:53:25,784: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 11:58:25,891: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 12:03:26,015: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 12:08:26,120: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 12:13:26,225: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 12:18:26,325: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 12:23:26,437: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 12:28:26,553: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 12:33:26,637: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 12:38:26,697: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 12:43:26,809: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 12:48:26,877: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 12:53:26,960: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 12:58:27,073: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 13:03:27,148: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 13:08:27,262: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 13:13:27,308: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 13:18:27,371: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 13:23:27,463: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 13:28:27,558: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 13:33:27,650: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 13:38:27,757: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 13:43:27,869: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 13:48:27,924: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 13:53:28,040: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 13:58:28,163: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 14:03:28,278: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 14:08:28,357: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 14:13:28,460: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 14:18:28,555: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 14:23:28,674: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 14:28:28,763: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 14:33:28,878: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 14:38:28,915: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 14:43:28,998: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2015-04-02 14:44:25,970: INFO/MainProcess] beat: Starting...
+[2015-04-02 14:48:29,089: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 14:53:29,110: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 14:58:29,201: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 15:03:29,294: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 15:08:29,392: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 15:13:29,497: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 15:18:29,600: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 15:23:29,696: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 15:28:29,792: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2015-04-02 15:30:08,498: INFO/MainProcess] beat: Starting...
+Stale pidfile exists. Removing it.
+[2015-04-02 15:30:34,069: INFO/MainProcess] beat: Starting...
+[2015-04-02 15:33:29,865: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2015-04-02 15:34:34,651: INFO/MainProcess] beat: Starting...
+[2015-04-02 15:38:29,957: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 15:43:30,061: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 15:48:30,149: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 15:53:30,196: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 15:58:30,267: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 16:03:30,360: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 16:08:30,464: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 16:13:30,549: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 16:18:30,624: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 16:23:30,645: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2015-04-02 16:23:37,380: INFO/MainProcess] beat: Starting...
+[2015-04-02 16:28:30,735: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2015-04-02 17:08:08,290: INFO/MainProcess] beat: Starting...
+[2015-04-02 17:08:08,384: ERROR/MainProcess] beat: Connection error: Error 111 connecting to localhost:6379. Connection refused.. Trying again in 2.0 seconds...
+[2015-04-02 17:08:10,389: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-04-02 17:13:12,620: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2015-04-02 17:14:28,141: INFO/MainProcess] beat: Starting...
+Stale pidfile exists. Removing it.
+[2015-06-09 20:51:37,721: INFO/MainProcess] beat: Starting...
+[2015-06-09 20:51:38,922: ERROR/MainProcess] beat: Connection error: Error 111 connecting to localhost:6379. Connection refused.. Trying again in 2.0 seconds...
+[2015-06-09 20:51:40,932: ERROR/MainProcess] beat: Connection error: Error 111 connecting to localhost:6379. Connection refused.. Trying again in 4.0 seconds...
+[2015-06-09 20:51:44,946: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2015-06-09 20:56:36,027: INFO/MainProcess] beat: Starting...
+[2015-06-09 20:56:44,949: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 21:01:45,051: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 21:06:45,146: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 21:11:45,196: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2015-06-09 21:14:23,250: INFO/MainProcess] beat: Starting...
+[2015-06-09 21:16:45,269: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 21:21:45,318: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 21:26:45,411: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 21:31:45,718: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 21:36:45,811: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 21:41:45,863: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 21:46:45,935: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 21:51:46,079: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 21:56:46,239: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 22:01:46,335: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 22:06:46,416: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 22:11:46,572: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 22:16:46,651: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 22:21:46,798: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 22:26:46,958: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 22:31:47,223: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 22:36:47,324: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 22:41:47,438: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 22:46:47,542: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 22:51:47,642: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 22:56:47,750: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 23:01:47,895: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 23:06:47,928: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 23:11:48,057: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 23:16:48,201: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 23:21:48,286: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 23:26:48,404: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 23:31:48,484: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 23:36:48,567: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 23:41:48,671: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-06-09 23:46:48,772: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
